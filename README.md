@@ -14,4 +14,4 @@ cron job.
 This is a work in progress, the python script should work. However it needs to be 
 cleaned up. 
   
-Also included is some of the PHP for the website
+Also included is some of the PHP for the website.
