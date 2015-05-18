@@ -13,8 +13,8 @@ import MySQLdb #Use MySQL to add weather data to a database
 # ***** ALL usernames and passwords have been removed****** 
 try:
     db = MySQLdb.connect(host="localhost",
-                         user= "root",
-                         passwd="cooper8",
+                         user= "user",
+                         passwd="password",
                          db="Weather")
     cur=db.cursor()
 except:
